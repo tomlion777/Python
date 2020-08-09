@@ -1,0 +1,20 @@
+PyAudio
+________________
+
+1. Go to - https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+
+2. Click link to download file according to your python version and computer bit (to check bit version (on windows 10)) type in search bar "See if you have a 32-bit or 64-bit version of Windows" and hit enter.
+
+3. go to file location (by default in downloads) and copy fle name.
+
+4. type cmd in search bar and hit enter
+
+5. locate to file location folder (using command cd "file location").
+
+6.       pip install ""
+paste file name here ^
+
+If you get an Error: Fatal error in launcher: Unable to create process using ... then please proceed with step 7.
+
+7. python -m pip install ""
+     paste file name here ^
