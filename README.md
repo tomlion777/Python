@@ -1,1 +1,1 @@
-Please check out all my different projects using the diffeent branches.
+Please check out all my different projects using the different branches.
