@@ -1,1 +1,1 @@
-Please Select A Different Branch for Different Projects.
+Please check out all my different projects using the diffeent branches.
